@@ -1,0 +1,28 @@
+{
+    "name": "_action",
+    "version": "0.0.1",
+    "description": "Application matrix manager",
+    "main": "_action",
+    "scripts": {
+        "test": "grunt"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/misha-panyushkin/_action.git"
+    },
+    "keywords": [
+        "action",
+        "manager"
+    ],
+    "author": "Misha Panyushkin <misha.panyushkin@gmail.com>",
+    "contributors": [
+        {
+            "name": "Misha Panyushkin",
+            "email": "misha.panyushkin@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/misha-panyushkin/_action/issues"
+    }
+}
